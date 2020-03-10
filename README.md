@@ -1,6 +1,7 @@
 Reproducing DNS research
 
-Instructions
+Instructions:
+
 Run the file ecs.py with two input arguments -s -e, that indicate the start and end of the 1 million popular domains dataset slice you wish to run. ex. ./ecs.py -s 0 -e 100000 (issue queries to 0th to 99,999th entry in top 1m domains).
 
 Summary
